@@ -2,9 +2,9 @@
 
 A first generation Pokédex that renders a random Pokémon.
 
-[Learn how it was built in this video](https://youtube.com/c/eveningkid)
+[Learn how it was built in this video](https://youtu.be/QeAZOrGodI0)
 
-<img src="assets/pokedex.gif" />
+<img src="assets/pokedex.gif" width="30%" />
 
 📕 Get up-to-date Pokémon information using [PokéAPI](https://pokeapi.co/)
 
